@@ -1,0 +1,9 @@
+#map {
+    width: 100%;
+    height: 400px;
+}
+#detailsList #map {
+    height: 400px;
+    width: 100%;
+    display: block;
+}
